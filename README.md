@@ -35,7 +35,7 @@ provider "azurerm" {
 Modify the default values in `variables.tf` to suit your requirements
 
 #### Step 3 - Terraform Run
-Change the current directory to `azure_appgw-scaleset_terraform` and execute the following  
+Change the current directory to `azure_appgw-scaleset_tf` and execute the following  
 ```
 $ terraform init
 $ terraform plan
